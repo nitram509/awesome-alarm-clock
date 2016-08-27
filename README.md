@@ -10,6 +10,8 @@ Required Arduino software libraries
    * https://github.com/adafruit/Adafruit-GFX-Library
 * DS3231
    * https://github.com/JChristensen/DS3232RTC
+* DFPlayer Mini
+   * https://github.com/DFRobot/DFPlayer-Mini-mp3
 
 
 BOM - bill of materials
@@ -27,6 +29,7 @@ BOM - bill of materials
 * [DFPlayer Mini - MP3Player](http://www.ebay.de/itm/172128870456)
    * incl. amplifier
    * provides sd-card slot for playing mp3 files
+   * documentation http://www.dfrobot.com/wiki/index.php/DFPlayer_Mini_SKU:DFR0299
 * [Plastic housing](http://www.ebay.de/itm/361554581903)
    * 145x70x48 mm
 
