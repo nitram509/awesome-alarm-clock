@@ -2,8 +2,8 @@ Awesome Alarm Clock
 ===================
 
 
-Required libraries
-------------------
+Required Arduino software libraries
+-----------------------------------
 
 * 7-Segment LED HT16K33 Backpack
    * https://github.com/adafruit/Adafruit_LED_Backpack
@@ -15,7 +15,7 @@ Required libraries
 BOM - bill of materials
 -----------------------
 
-* [1.2' 4 Digit 7-segment LED display](http://www.ebay.de/itm/272039071373)
+* [1.2' 4 Digit 7-segment LED display](https://www.adafruit.com/products/1270)
    * color red
    * based on HT16K33 chip
    * uses i2c
@@ -23,6 +23,7 @@ BOM - bill of materials
    * AT24C32
    * battery powered
    * uses i2c
+   * capable to cascade with more i2c devices
 * [DFPlayer Mini - MP3Player](http://www.ebay.de/itm/172128870456)
    * incl. amplifier
    * provides sd-card slot for playing mp3 files
