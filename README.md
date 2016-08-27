@@ -33,6 +33,6 @@ BOM - bill of materials
 License
 -------
 
-![CC BY-SA](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)
+![CC BY-SA](http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-sa.png)
 
 [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
