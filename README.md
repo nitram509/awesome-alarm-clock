@@ -1,6 +1,14 @@
 Awesome Alarm Clock
 ===================
 
+Feature
+-------
+
+* two alarm timer
+* two independant sounds, one for each
+* individual sounds via MP3 configurable
+* battery power, in case of power loss
+* fun/pet project ;-)
 
 Required Arduino software libraries
 -----------------------------------
